@@ -1,3 +1,5 @@
 Fruit: Banana
 Weight: 15 Kg
 Price: 600 Rs
+Import From: India
+Export To: China
