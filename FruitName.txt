@@ -1,5 +1,5 @@
 Fruit: Banana
-Weight: 15 Kg
+Weight: 30 Kg
 Price: 600 Rs
 Company Name: "Agara Detail Food Productions"
 Company Details: PVT Limited
