@@ -1,5 +1,8 @@
 Fruit: Banana
 Weight: 15 Kg
 Price: 600 Rs
+Company Name: "Agara Detail Food Productions"
+Company Details: PVT Limited
 Import From: India
 Export To: China
+
